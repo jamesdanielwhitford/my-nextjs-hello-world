@@ -1,5 +1,5 @@
 {
-  "name": "my-nextjs-hello-world",
+  "name": "nextjs-hello-world",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
